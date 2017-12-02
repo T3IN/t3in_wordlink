@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-11-30T15:05:45Z" product-name="t3in_wordlink">
+		<header/>
+		<body>
+			<trans-unit id="tx_t3inwordlink_domain_model_wordconfig">
+				<source>Word Config</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_wordconfig.words">
+				<source>Words</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_wordconfig.colpos">
+				<source>Colpos</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_wordconfig.url">
+				<source>Url</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_wordconfig.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_wordconfig.alt">
+				<source>Alt</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_wordconfig.target">
+				<source>Target</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_wordconfig.max_word">
+				<source>Max Word</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_index">
+				<source>Index</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_index.page_id">
+				<source>Page Id</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_index.colpos">
+				<source>Colpos</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_index.word">
+				<source>Word</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_index.url">
+				<source>Url</source>
+			</trans-unit>
+			<trans-unit id="tx_t3inwordlink_domain_model_index.content_id">
+				<source>Content Id</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

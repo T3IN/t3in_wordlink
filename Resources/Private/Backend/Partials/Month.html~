@@ -1,0 +1,7 @@
+{namespace house=T3IN\T3inHouse\ViewHelpers}
+
+<html>
+
+	<f:format.raw>{house:month(pos: position)}</f:format.raw>
+
+</html>

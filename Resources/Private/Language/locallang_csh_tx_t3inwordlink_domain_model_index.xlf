@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-11-30T15:05:45Z" product-name="t3in_wordlink">
+		<header/>
+		<body>
+			<trans-unit id="page_id.description">
+				<source>pageId</source>
+			</trans-unit>
+			<trans-unit id="colpos.description">
+				<source>colpos</source>
+			</trans-unit>
+			<trans-unit id="word.description">
+				<source>word</source>
+			</trans-unit>
+			<trans-unit id="url.description">
+				<source>url</source>
+			</trans-unit>
+			<trans-unit id="content_id.description">
+				<source>contentId</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

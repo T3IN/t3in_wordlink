@@ -1,0 +1,9 @@
+<f:layout name="Default" />
+<f:section name="main">
+
+ <div class="alert alert-warning" role="alert">
+	<f:flashMessages />	
+ </div>
+
+
+</f:section>

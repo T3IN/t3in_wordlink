@@ -1,0 +1,19 @@
+{
+    "name": "t3in/t3in-wordlink",
+    "type": "typo3-cms-extension",
+    "description": "Apply Url to words",
+    "authors": [
+        {
+            "name": "Vikram Mandal",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "T3IN\\T3inWordlink\\": "Classes"
+        }
+    }
+}
